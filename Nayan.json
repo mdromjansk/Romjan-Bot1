@@ -6,7 +6,7 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "M_R_ROMJAN_SHEIKH_BOT 🤖🌺",
   "PREFIX": "/",
   "OPERATOR": [
     "100002855297366",
@@ -16,7 +16,7 @@
     "100002855297366",
     "100000959749712"
   ],
-  "OWNER": ["100002855297366"], 
+  "OWNER": ["100000959749712"], 
   "APPROVED": [],
   "disabledcmds": [
   ],
